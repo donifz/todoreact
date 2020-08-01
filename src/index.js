@@ -3,10 +3,12 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./components/app/App";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App title="one more" />
-  </React.StrictMode>,
+ReactDOM.render( <
+  React.StrictMode >
+  <
+  App title = "one more" / >
+  <
+  /React.StrictMode>,
   document.getElementById("root")
 );
 
